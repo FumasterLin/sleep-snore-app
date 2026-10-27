@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">睡眠打鼾检测</string>
+    <string name="tracking_notification_title">睡眠监测运行中</string>
+    <string name="tracking_notification_text">正在智能分析打鼾声与呼吸状态，点击返回应用</string>
+</resources>
